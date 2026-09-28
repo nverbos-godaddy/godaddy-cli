@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.23](https://github.com/godaddy/cli/compare/v0.2.22...v0.2.23) (2026-09-28)
+
+
+### Features
+
+* **spec:** add dedicated command for full spec output ([#285](https://github.com/godaddy/cli/issues/285)) ([0551a80](https://github.com/godaddy/cli/commit/0551a802f9479abc491fa8643779d4eab59776ea))
+
 ## [0.2.22](https://github.com/godaddy/cli/compare/v0.2.21...v0.2.22) (2026-09-28)
 
 
